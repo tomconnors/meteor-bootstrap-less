@@ -3,6 +3,6 @@
   "description": "Twitters Bootstrap repackaged for Meteor including uncompiled less code.",
   "homepage": "https://github.com/inhji/bootstrap-less",
   "author": "Inhji <inhji.y@gmail.com>",
-  "version": "0.0.2",
+  "version": "v0.0.1",
   "git": "https://github.com/inhji/bootstrap-less.git",
 }
