@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "UX/UI framework from Twitter incl. uncompiled less files."
+  summary: "Twitters Bootstrap repackaged for Meteor including uncompiled less code."
 });
 
 Package.on_use(function (api) {
