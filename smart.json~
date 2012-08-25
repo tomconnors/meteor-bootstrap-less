@@ -1,8 +1,0 @@
-{
-  "name": "bootstrap-less",
-  "description": "UX/UI framework from Twitter incl. uncompiled less files.",
-  "homepage": "https://github.com/inhji/bootstrap-less",
-  "author": "Inhji Yizjiku  (http://inhji.de)",
-  "version": "0.0.1",
-  "git": "https://github.com/inhji/bootstrap-less.git",
-}
