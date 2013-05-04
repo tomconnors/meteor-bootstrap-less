@@ -1,0 +1,71 @@
+//custom bootstrap
+// imports everything.
+// only difference between this and original
+// is variables.less and other.less
+
+/*!
+ * Bootstrap v2.3.1
+ *
+ * Copyright 2012 Twitter, Inc
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Designed and built with all the love in the world @twitter by @mdo and @fat.
+ */
+
+// Core variables and mixins
+@import "variables.less"; // Modify this for custom colors, font-sizes, etc
+@import "../source/less/mixins.less";
+
+// CSS Reset
+@import "../source/less/reset.less";
+
+//import our custom other near the top, for some reason.
+@import "other.less";
+
+// Grid system and page structure
+@import "../source/less/scaffolding.less";
+@import "../source/less/grid.less";
+@import "../source/less/layouts.less";
+
+// Base CSS
+@import "../source/less/type.less";
+@import "../source/less/code.less";
+@import "../source/less/forms.less";
+@import "../source/less/tables.less";
+
+// Components: common
+@import "../source/less/sprites.less";
+@import "../source/less/dropdowns.less";
+@import "../source/less/wells.less";
+@import "../source/less/component-animations.less";
+@import "../source/less/close.less";
+
+// Components: Buttons & Alerts
+@import "../source/less/buttons.less";
+@import "../source/less/button-groups.less";
+@import "../source/less/alerts.less"; // Note: alerts share common CSS with buttons and thus have styles in buttons.less
+
+// Components: Nav
+@import "../source/less/navs.less";
+@import "../source/less/navbar.less";
+@import "../source/less/breadcrumbs.less";
+@import "../source/less/pagination.less";
+@import "../source/less/pager.less";
+
+// Components: Popovers
+@import "../source/less/modals.less";
+@import "../source/less/tooltip.less";
+@import "../source/less/popovers.less";
+
+// Components: Misc
+@import "../source/less/thumbnails.less";
+@import "../source/less/media.less";
+@import "../source/less/labels-badges.less";
+@import "../source/less/progress-bars.less";
+@import "../source/less/accordion.less";
+@import "../source/less/carousel.less";
+@import "../source/less/hero-unit.less";
+
+// Utility classes
+@import "../source/less/utilities.less"; // Has to be last to override when necessary
