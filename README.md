@@ -1,4 +1,4 @@
 bootstrap-less
 ==============
 
-Meteor Smartpackage for Bootstrap including uncompiled less code
+Meteor Smartpackage for Bootstrap, including all less + js files. Intended to be customizable.
