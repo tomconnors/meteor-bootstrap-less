@@ -2,7 +2,7 @@
   "name": "bootstrap-customizable",
   "description": "Twitters Bootstrap repackaged for Meteor including uncompiled less code.",
   "homepage": "https://github.com/tomconnors/meteor-bootstrap-less",
-  "authors": ["Inhji <inhji.y@gmail.com>", "tom connors <tvconnors@gmail.com>"],
+  "author": "tom connors <tvconnors@gmail.com>",
   "version": "0.0.3",
   "git": "https://github.com/tomconnors/meteor-bootstrap-less"
 }
