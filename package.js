@@ -14,10 +14,10 @@ Package.on_use(function (api) {
   api.add_files('source/js/bootstrap-collapse.js', 'client');
   api.add_files('source/js/bootstrap-dropdown.js', 'client');
   api.add_files('source/js/bootstrap-modal.js', 'client');
-  api.add_files('source/js/bootstrap-popover.js', 'client');
   api.add_files('source/js/bootstrap-scrollspy.js', 'client');
   api.add_files('source/js/bootstrap-tab.js', 'client');
   api.add_files('source/js/bootstrap-tooltip.js', 'client');
+  api.add_files('source/js/bootstrap-popover.js', 'client');
   api.add_files('source/js/bootstrap-transition.js', 'client');
   api.add_files('source/js/bootstrap-typeahead.js', 'client');
 
